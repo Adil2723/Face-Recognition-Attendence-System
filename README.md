@@ -1,7 +1,7 @@
 # Face Recognition Attendance System
 
 <p align="center">
-  <img src="ai.png" alt="AI Preview" width="350"/>
+  <img src="ai.png" alt="AI Preview" width="750"/>
 </p>
 
 ## 📌 Overview
